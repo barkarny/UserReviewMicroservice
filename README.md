@@ -15,7 +15,6 @@ RSocket is a binary protocol for use on byte stream transports such as TCP, WebS
 - Request/Stream
 - Channel (bi-directional streams-not at this service but at our second MicroSERVICE of AWARDS)
 
-RSocket supports session resumption, multiplexing, and application-layer flow control.
 
 ## Code Snippets
 
