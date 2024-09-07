@@ -2,7 +2,7 @@
 
 ## Introduction to OUR MICROSERVICE
 Our microservice is designed to handle user reviews for movies.
-It provides a RESTful API that allows other applications to interact with it, such as a movie recommendation engine or a website that displays user reviews. The microservice is responsible for storing, retrieving, and managing user reviews. It also handles tasks such as moderation and spam filtering.
+It provides a RESTful API that allows other applications to interact with it, such as a movie recommendation engine or a website that displays user reviews. The microservice is responsible for storing, retrieving, and managing user reviews. 
 
 
 
